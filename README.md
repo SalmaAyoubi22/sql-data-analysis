@@ -39,6 +39,3 @@ This project demonstrates SQL skills ranging from basic aggregation to subquerie
 - Date functions: EXTRACT
 - String functions: LEFT()
 - Sorting and limiting results
-- Date functions: EXTRACT
-- String functions: LEFT()
-- Sorting and limiting results
